@@ -6,9 +6,7 @@ Planlegging og gjennomføring for Lundetreff.
 
 ## Velkommen 2026
 
-[![Last ned PDF](https://img.shields.io/badge/Last%20ned-PDF-1f6feb?style=for-the-badge)](https://github.com/et1451x/Lundetreff/raw/main/filer/Velkommen%20til%20slekts%20treff%202026.pdf)
-
-[![Apne PDF i nettleser](https://img.shields.io/badge/Apne-PDF-blue?style=for-the-badge)](https://raw.githubusercontent.com/et1451x/Lundetreff/main/filer/Velkommen%20til%20slekts%20treff%202026.pdf)
+[![Last ned Invitasjon](https://img.shields.io/badge/Last%20ned-Invitasjon-1f6feb?style=for-the-badge)](https://github.com/et1451x/Lundetreff/raw/main/filer/invitasjon)
 
 [![Forhåndsvisning fra Velkommen til slekts treff 2026.pdf](./filer/assets/velkommen-2026-preview.png)](./filer/Velkommen%20til%20slekts%20treff%202026.pdf)
 
